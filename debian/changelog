@@ -1,6 +1,8 @@
-sl (5.02-1-oscarlee) unstable; urgency=low
+sl (5.02-1-oscarlee) jammy; urgency=low
   * add testing.sh
   * execute testing.sh after install deb
+  
+ -- Oscar Lee <qwas074506@yahoo.com>  Fri, 08 Mar 2024 03:47:00 +0800
 
 sl (5.02-1) unstable; urgency=medium
 
