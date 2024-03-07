@@ -1,3 +1,7 @@
+sl (5.02-1-oscarlee) unstable; urgency=low
+  * add testing.sh
+  * execute testing.sh after install deb
+
 sl (5.02-1) unstable; urgency=medium
 
   * [db4aaf1] Add watch file for mtoyoda/sl on GitHub
